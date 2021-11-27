@@ -1,0 +1,99 @@
+{
+	"author": "gamerFinn",
+	"authorURL": "https://github.com/gamerFinn",
+	"mods": [{
+		"name": "NoisemakerBlueprint",
+		"aliases": [],
+		"author": "gamerFinn",
+		"authorURL": "",
+		"version": "1.0.0",
+		"updated": "2021-11-26",
+		"description": "A blueprint for the Noisemaker from Episode 4.",
+		"thumb": "https://static.wikia.nocookie.net/intothelongdark/images/0/09/Noisemaker_icon.png/revision/latest?cb=20211007023605",
+		"modURL": "https://github.com/gamerFinn/NoisemakerBlueprint",
+		"downloadURL": "https://github.com/gamerFinn/NoisemakerBlueprint/releases/tag/Blueprint",
+		"testedon": {
+			"tldversion": "1.97",
+			"mlversion": "0.4.3.0"
+		},
+		"dependencies": ["ModComponent", "CraftingRevisions"],
+		"updater": {
+			"enable": true,
+			"downloads": []
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "AlternateBlueprints",
+		"displayName": "Alternate Blueprints",
+		"aliases": [],
+		"version": "1.0.0",
+		"updated": "2021-11-26",
+		"description": "Alternate Blueprints for the snare and arrowhead.",
+		"modURL": "https://github.com/gamerFinn/Alternate-Blueprints",
+		"downloadURL": "https://github.com/gamerFinn/Alternate-Blueprints/releases/tag/Blueprint",
+		"testedon": {
+			"tldversion": "1.97",
+			"mlversion": "0.4.3.0"
+		},
+		"dependencies": ["CraftingRevisions", "ModComponent"],
+		"updater": {
+			"enable": true,
+			"downloads": []
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "WorkshopBulletCrafting",
+		"displayName": "Workshop Bullet Crafting",
+		"aliases": [],
+		"version": "1.0.0",
+		"updated": "2021-11-26",
+		"description": "A mod for crafting bullets at workbenches.",
+		"modURL": "https://github.com/gamerFinn/WorkshopBulletCrafting",
+		"downloadURL": "https://github.com/gamerFinn/WorkshopBulletCrafting/releases/tag/Blueprints",
+		"testedon": {
+			"tldversion": "1.97",
+			"mlversion": "0.4.3.0"
+		},
+		"dependencies": ["ModComponent", "CraftingRevisions"],
+		"updater": {
+			"enable": true,
+			"downloads": []
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "RenewableCoffee",
+		"displayName": "Renewable Coffee",
+		"aliases": [],
+		"version": "1.0.0",
+		"updated": "2021-11-26",
+		"description": "A mod that lets you craft a tin of coffee with a recycled can, prepared rosehips, and prepared reshi mushrooms",
+		"modURL": "https://github.com/gamerFinn/RenewableCoffee",
+		"downloadURL": "https://github.com/gamerFinn/RenewableCoffee/releases/tag/Blueprints",
+		"testedon": {
+			"tldversion": "1.97",
+			"mlversion": "0.4.3.0"
+		},
+		"dependencies": ["ModComponents", "CraftingRevisions"],
+		"updater": {
+			"enable": true,
+			"downloads": []
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}]
+}
